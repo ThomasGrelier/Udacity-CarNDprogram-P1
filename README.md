@@ -1,10 +1,9 @@
 # **Finding Lane Lines on the Road** 
 
+[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 ## Overview
----
 This repository is dedicated to the first project of the first term of Udacity Self Driving Car Nanodegree program.
-[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 Objective is to detect lane lines on the road. This is done using Python and OpenCV.
 A pipeline is developed and is applied to a series of images and videos.
